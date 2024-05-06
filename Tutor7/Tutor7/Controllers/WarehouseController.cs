@@ -14,6 +14,8 @@ public class WarehouseController : ControllerBase
     public WarehouseController(IService service)
     {
         _service = service;
+        //
+        //
     }
     
 
